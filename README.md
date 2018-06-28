@@ -1,6 +1,6 @@
 # test-repo-branching
 
-# VS was here... braching in full effect
+# No you were not here.
 
 ## Transtra in tendunt sanguine en puer
 
